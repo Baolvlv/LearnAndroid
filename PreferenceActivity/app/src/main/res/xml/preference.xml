@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="First Category">
+        <ListPreference android:key="list_key"
+            android:title="list title"
+            android:summary="list_summery"
+            android:defaultValue="@string/app_name"
+            android:entries="@array/list_preference"
+            android:entryValues="@array/list_preference"
+            android:dialogTitle="list_dialog_title"/>
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Second Category">
+        <EditTextPreference android:key="edittext_key"
+            android:title="edit title"
+            android:defaultValue="@string/app_name"
+            android:summary="edit_summery"/>
+        <CheckBoxPreference android:key="checkbox_key"
+            android:title="checkbox title"
+            android:defaultValue="false"
+            android:summary="checkbox summery"/>
+        <!--<EditTextPreference android:key="num_key"-->
+            <!--android:title="input number"-->
+            <!--android:defaultValue="0"-->
+            <!--android:summary="edit summery"-->
+            <!--android:numeric="integer"/>-->
+    </PreferenceCategory>
+
+</PreferenceScreen>

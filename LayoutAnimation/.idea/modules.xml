@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LayoutAnimation.iml" filepath="$PROJECT_DIR$/LayoutAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l02layoutchangeanim/l02layoutchangeanim.iml" filepath="$PROJECT_DIR$/l02layoutchangeanim/l02layoutchangeanim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/l03layoutanimationinlistview/l03layoutanimationinlistview.iml" filepath="$PROJECT_DIR$/l03layoutanimationinlistview/l03layoutanimationinlistview.iml" />
+    </modules>
+  </component>
+</project>

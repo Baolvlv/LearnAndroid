@@ -1,0 +1,1 @@
+include ':app', ':l02rotateanimation', ':l03translateanimation', ':l04scaleanimation', ':l05anim', ':l07customanim'

@@ -1,0 +1,2 @@
+include ':app', ':actionbarsherlock'
+project(':actionbarsherlock').projectDir = new File('library/actionbarsherlock')

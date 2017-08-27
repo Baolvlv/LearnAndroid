@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActionBarUsing</string>
+    <string name="action_search">action_search</string>
+    <string name="action_settings">action_settings</string>
+    <string name="share">share</string>
+</resources>
